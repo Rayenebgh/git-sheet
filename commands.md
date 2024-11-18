@@ -3,6 +3,8 @@
 - configure default editor for commit messages
   `git config --global core.editor "code --wait"`
 
+
+configure global user name `git config --global user.name <username>`
 - get the status on the recent dir
   `git status`
 
